@@ -59,8 +59,6 @@ function MyTabs() {
 class App extends Component {
   
   render() {
-
-   
     
     return (<NavigationContainer>
       <MyTabs/>
